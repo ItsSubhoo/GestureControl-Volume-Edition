@@ -17,7 +17,7 @@ This project demonstrates a gesture-based volume control system using OpenCV, Me
 ## Installation
 1.Clone the Repository
 ```bash
-git clone <repository-url>
+git clone https://github.com/ItsSubhoo/GestureControl-Volume-Edition.git
 cd GestureControl-Volume-Edition
 ```
 2. Install Dependencies
