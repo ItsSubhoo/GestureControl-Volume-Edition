@@ -8,7 +8,7 @@ This project demonstrates a gesture-based volume control system using OpenCV, Me
   -  Mouse Control: Tracks the index finger and controls the mouse cursor position on the screen. If the index and middle fingers are brought together, it emulates a mouse click.
 
 ## Requirements
--  Python 3.x
+-  Python 3.7
 -  OpenCV
  - Mediapipe
     -    Pycaw
